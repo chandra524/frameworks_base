@@ -92,7 +92,7 @@ import java.util.Map;
 import java.util.NoSuchElementException;
 import java.util.concurrent.CopyOnWriteArrayList;
 
-import vendor.aoscp.biometrics.fingerprint.inscreen.V1_0.IFingerprintInscreen;
+import vendor.lineage.biometrics.fingerprint.inscreen.V1_0.IFingerprintInscreen;
 
 /**
  * A service to manage multiple clients that want to access the fingerprint HAL API.

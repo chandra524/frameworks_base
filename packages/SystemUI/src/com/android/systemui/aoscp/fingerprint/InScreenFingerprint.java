@@ -46,8 +46,8 @@ import java.util.NoSuchElementException;
 import java.util.Timer;
 import java.util.TimerTask;
 
-import vendor.aoscp.biometrics.fingerprint.inscreen.V1_0.IFingerprintInscreen;
-import vendor.aoscp.biometrics.fingerprint.inscreen.V1_0.IFingerprintInscreenCallback;
+import vendor.lineage.biometrics.fingerprint.inscreen.V1_0.IFingerprintInscreen;
+import vendor.lineage.biometrics.fingerprint.inscreen.V1_0.IFingerprintInscreenCallback;
 
 public class InScreenFingerprint extends ImageView implements OnTouchListener {
 

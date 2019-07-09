@@ -35,7 +35,7 @@ import com.android.internal.statusbar.IStatusBarService;
 
 import java.util.NoSuchElementException;
 
-import vendor.aoscp.biometrics.fingerprint.inscreen.V1_0.IFingerprintInscreen;
+import vendor.lineage.biometrics.fingerprint.inscreen.V1_0.IFingerprintInscreen;
 
 /**
  * A class to keep track of the authentication state for a given client.
